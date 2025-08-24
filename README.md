@@ -1,4 +1,3 @@
 # Loan Pipeline
 
-This repo contains `loan_pipeline.py` ready to run in Colab.
-
+Loan approval ML pipeline ready for Colab.
